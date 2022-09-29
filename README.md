@@ -30,7 +30,7 @@ In a different terminal, `cd` into the __frontend__ directory of the starter.
      requests to the port (`5000`) on which your backend is listening.
 3. Open `http://localhost:3000` to see the frontend
 
-## Normalize ADD_ARTICLES case
+## Normalize LOAD_ARTICLES case
 
 In your __src/store/articleReducer.js__ file, locate your `initialState`
 variable. Change your `entries` key from an empty array to an empty object.
